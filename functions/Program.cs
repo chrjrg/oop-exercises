@@ -1,7 +1,7 @@
 using System;
 
 class Program{
-   public static void Main() {
+   public static void Main(string[] args) {
 
       float[] temp = [21.5F,23.7F,19.6F,22.5F,25.3F,21.7F,18.9F] ;
       
