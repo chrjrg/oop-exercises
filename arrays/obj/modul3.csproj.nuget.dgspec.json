@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chr/oop/oop-exercises/modul3/modul3.csproj": {}
+    "/Users/chr/oop/oop-exercises/arrays/modul3.csproj": {}
   },
   "projects": {
-    "/Users/chr/oop/oop-exercises/modul3/modul3.csproj": {
+    "/Users/chr/oop/oop-exercises/arrays/modul3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chr/oop/oop-exercises/modul3/modul3.csproj",
+        "projectUniqueName": "/Users/chr/oop/oop-exercises/arrays/modul3.csproj",
         "projectName": "modul3",
-        "projectPath": "/Users/chr/oop/oop-exercises/modul3/modul3.csproj",
+        "projectPath": "/Users/chr/oop/oop-exercises/arrays/modul3.csproj",
         "packagesPath": "/Users/chr/.nuget/packages/",
-        "outputPath": "/Users/chr/oop/oop-exercises/modul3/obj/",
+        "outputPath": "/Users/chr/oop/oop-exercises/arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chr/.nuget/NuGet/NuGet.Config"
