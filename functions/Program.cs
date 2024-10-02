@@ -14,6 +14,19 @@ class Program{
       Console.WriteLine(Solutions.minus(x,y));
       Console.WriteLine(Solutions.times(Solutions.add(x,y),Solutions.minus(x,y)));
       
+      int indeholder = 0;
+
+      int cifre = 1000000000;
+      int checkEfter = 5;
+
+      for (int i = 0;i<cifre;i++) {
+         if (i.ToString().Contains(checkEfter.ToString())){
+             indeholder++;
+         } else
+              continue;
+         }
+
+         Console.WriteLine(indeholder);
 
    }
 }
