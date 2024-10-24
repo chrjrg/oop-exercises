@@ -1,0 +1,15 @@
+/Users/chr/oop/oop-exercises/arrays/bin/Debug/net9.0/arrays
+/Users/chr/oop/oop-exercises/arrays/bin/Debug/net9.0/arrays.deps.json
+/Users/chr/oop/oop-exercises/arrays/bin/Debug/net9.0/arrays.runtimeconfig.json
+/Users/chr/oop/oop-exercises/arrays/bin/Debug/net9.0/arrays.dll
+/Users/chr/oop/oop-exercises/arrays/bin/Debug/net9.0/arrays.pdb
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.AssemblyInfoInputs.cache
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.AssemblyInfo.cs
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.csproj.CoreCompileInputs.cache
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.sourcelink.json
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.dll
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/refint/arrays.dll
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.pdb
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/arrays.genruntimeconfig.cache
+/Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/ref/arrays.dll
