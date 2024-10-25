@@ -1,0 +1,15 @@
+/Users/chr/oop/oop-exercises/arv/bin/Debug/net9.0/arv
+/Users/chr/oop/oop-exercises/arv/bin/Debug/net9.0/arv.deps.json
+/Users/chr/oop/oop-exercises/arv/bin/Debug/net9.0/arv.runtimeconfig.json
+/Users/chr/oop/oop-exercises/arv/bin/Debug/net9.0/arv.dll
+/Users/chr/oop/oop-exercises/arv/bin/Debug/net9.0/arv.pdb
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.AssemblyInfoInputs.cache
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.AssemblyInfo.cs
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.csproj.CoreCompileInputs.cache
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.sourcelink.json
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.dll
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/refint/arv.dll
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.pdb
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/arv.genruntimeconfig.cache
+/Users/chr/oop/oop-exercises/arv/obj/Debug/net9.0/ref/arv.dll

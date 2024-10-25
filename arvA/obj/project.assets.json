@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net9.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD:arrays/obj/project.assets.json
+      "projectUniqueName": "C:\\Users\\chris\\code\\oop-exercises\\arrays\\modul3.csproj",
+      "projectName": "modul3",
+      "projectPath": "C:\\Users\\chris\\code\\oop-exercises\\arrays\\modul3.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chris\\code\\oop-exercises\\arrays\\obj\\",
+=======
+      "projectUniqueName": "/Users/chr/oop/oop-exercises/arv/arv.csproj",
+      "projectName": "arv",
+      "projectPath": "/Users/chr/oop/oop-exercises/arv/arv.csproj",
+      "packagesPath": "/Users/chr/.nuget/packages/",
+      "outputPath": "/Users/chr/oop/oop-exercises/arv/obj/",
+>>>>>>> 5b47b7b7c0e170fe9388cb0d253e89efb34edcd9:arvA/obj/project.assets.json
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
