@@ -28,3 +28,11 @@
 /Users/chr/oop/oop-exercises/arrays/bin/Debug/net9.0/modul3.pdb
 /Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/modul3.genruntimeconfig.cache
 /Users/chr/oop/oop-exercises/arrays/obj/Debug/net9.0/ref/modul3.dll
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\modul3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\modul3.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\modul3.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\modul3.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\modul3.sourcelink.json
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\modul3.dll
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\refint\modul3.dll
+C:\Users\chris\code\oop-exercises\arrays\obj\Debug\net9.0\modul3.pdb
