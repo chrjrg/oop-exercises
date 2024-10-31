@@ -1,0 +1,15 @@
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/bin/Debug/net8.0/ArealCircle
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/bin/Debug/net8.0/ArealCircle.deps.json
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/bin/Debug/net8.0/ArealCircle.runtimeconfig.json
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/bin/Debug/net8.0/ArealCircle.dll
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/bin/Debug/net8.0/ArealCircle.pdb
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.AssemblyInfoInputs.cache
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.AssemblyInfo.cs
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.csproj.CoreCompileInputs.cache
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.sourcelink.json
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.dll
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/refint/ArealCircle.dll
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.pdb
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ArealCircle.genruntimeconfig.cache
+/Users/chr/oop/oop-exercises/Variable/ArealCircle/obj/Debug/net8.0/ref/ArealCircle.dll
