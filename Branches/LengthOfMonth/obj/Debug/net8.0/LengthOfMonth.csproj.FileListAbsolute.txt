@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\bin\Debug\net8.0\LengthOfMonth.exe
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\bin\Debug\net8.0\LengthOfMonth.deps.json
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\bin\Debug\net8.0\LengthOfMonth.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\bin\Debug\net8.0\LengthOfMonth.dll
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\bin\Debug\net8.0\LengthOfMonth.pdb
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.sourcelink.json
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.dll
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\refint\LengthOfMonth.dll
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.pdb
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\LengthOfMonth.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\branches\LengthOfMonth\obj\Debug\net8.0\ref\LengthOfMonth.dll

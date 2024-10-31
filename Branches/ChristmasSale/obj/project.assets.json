@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/chr/.nuget/packages/": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chr/oop/oop-exercises/Branches/ChristmasSale/ChristmasSale.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\code\\oop-exercises\\Branches\\ChristmasSale\\ChristmasSale.csproj",
       "projectName": "ChristmasSale",
-      "projectPath": "/Users/chr/oop/oop-exercises/Branches/ChristmasSale/ChristmasSale.csproj",
-      "packagesPath": "/Users/chr/.nuget/packages/",
-      "outputPath": "/Users/chr/oop/oop-exercises/Branches/ChristmasSale/obj/",
+      "projectPath": "C:\\Users\\chris\\code\\oop-exercises\\Branches\\ChristmasSale\\ChristmasSale.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chris\\code\\oop-exercises\\Branches\\ChristmasSale\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/chr/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

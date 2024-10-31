@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\bin\Debug\net8.0\CelciusToFahrenheit.exe
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\bin\Debug\net8.0\CelciusToFahrenheit.deps.json
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\bin\Debug\net8.0\CelciusToFahrenheit.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\bin\Debug\net8.0\CelciusToFahrenheit.dll
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\bin\Debug\net8.0\CelciusToFahrenheit.pdb
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.sourcelink.json
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.dll
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\refint\CelciusToFahrenheit.dll
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.pdb
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\CelciusToFahrenheit.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\Loops\CelciusToFahrenheit\obj\Debug\net8.0\ref\CelciusToFahrenheit.dll

@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.sourcelink.json
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\bin\Debug\net8.0\ChristmasSale.exe
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\bin\Debug\net8.0\ChristmasSale.deps.json
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\bin\Debug\net8.0\ChristmasSale.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\bin\Debug\net8.0\ChristmasSale.dll
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\bin\Debug\net8.0\ChristmasSale.pdb
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.dll
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\refint\ChristmasSale.dll
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.pdb
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ChristmasSale.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\Branches\ChristmasSale\obj\Debug\net8.0\ref\ChristmasSale.dll
