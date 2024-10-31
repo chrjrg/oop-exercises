@@ -1,0 +1,15 @@
+/Users/chr/oop/oop-exercises/Variable/Epoch/bin/Debug/net8.0/Epoch
+/Users/chr/oop/oop-exercises/Variable/Epoch/bin/Debug/net8.0/Epoch.deps.json
+/Users/chr/oop/oop-exercises/Variable/Epoch/bin/Debug/net8.0/Epoch.runtimeconfig.json
+/Users/chr/oop/oop-exercises/Variable/Epoch/bin/Debug/net8.0/Epoch.dll
+/Users/chr/oop/oop-exercises/Variable/Epoch/bin/Debug/net8.0/Epoch.pdb
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.AssemblyInfoInputs.cache
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.AssemblyInfo.cs
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.csproj.CoreCompileInputs.cache
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.sourcelink.json
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.dll
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/refint/Epoch.dll
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.pdb
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/Epoch.genruntimeconfig.cache
+/Users/chr/oop/oop-exercises/Variable/Epoch/obj/Debug/net8.0/ref/Epoch.dll

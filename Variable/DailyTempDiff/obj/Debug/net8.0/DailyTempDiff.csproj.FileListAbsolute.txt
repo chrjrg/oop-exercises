@@ -1,0 +1,15 @@
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/bin/Debug/net8.0/DailyTempDiff
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/bin/Debug/net8.0/DailyTempDiff.deps.json
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/bin/Debug/net8.0/DailyTempDiff.runtimeconfig.json
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/bin/Debug/net8.0/DailyTempDiff.dll
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/bin/Debug/net8.0/DailyTempDiff.pdb
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.AssemblyInfoInputs.cache
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.AssemblyInfo.cs
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.csproj.CoreCompileInputs.cache
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.sourcelink.json
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.dll
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/refint/DailyTempDiff.dll
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.pdb
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/DailyTempDiff.genruntimeconfig.cache
+/Users/chr/oop/oop-exercises/Variable/DailyTempDiff/obj/Debug/net8.0/ref/DailyTempDiff.dll

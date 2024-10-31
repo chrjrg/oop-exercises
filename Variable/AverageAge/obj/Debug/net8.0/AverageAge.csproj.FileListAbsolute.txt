@@ -1,0 +1,15 @@
+/Users/chr/oop/oop-exercises/Variable/AverageAge/bin/Debug/net8.0/AverageAge
+/Users/chr/oop/oop-exercises/Variable/AverageAge/bin/Debug/net8.0/AverageAge.deps.json
+/Users/chr/oop/oop-exercises/Variable/AverageAge/bin/Debug/net8.0/AverageAge.runtimeconfig.json
+/Users/chr/oop/oop-exercises/Variable/AverageAge/bin/Debug/net8.0/AverageAge.dll
+/Users/chr/oop/oop-exercises/Variable/AverageAge/bin/Debug/net8.0/AverageAge.pdb
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.AssemblyInfoInputs.cache
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.AssemblyInfo.cs
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.csproj.CoreCompileInputs.cache
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.sourcelink.json
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.dll
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/refint/AverageAge.dll
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.pdb
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/AverageAge.genruntimeconfig.cache
+/Users/chr/oop/oop-exercises/Variable/AverageAge/obj/Debug/net8.0/ref/AverageAge.dll
