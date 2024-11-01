@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\Arrays\calender\bin\Debug\net8.0\Calender.exe
+C:\Users\chris\code\oop-exercises\Arrays\calender\bin\Debug\net8.0\Calender.deps.json
+C:\Users\chris\code\oop-exercises\Arrays\calender\bin\Debug\net8.0\Calender.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\Arrays\calender\bin\Debug\net8.0\Calender.dll
+C:\Users\chris\code\oop-exercises\Arrays\calender\bin\Debug\net8.0\Calender.pdb
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.sourcelink.json
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.dll
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\refint\Calender.dll
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.pdb
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\Calender.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\Arrays\calender\obj\Debug\net8.0\ref\Calender.dll

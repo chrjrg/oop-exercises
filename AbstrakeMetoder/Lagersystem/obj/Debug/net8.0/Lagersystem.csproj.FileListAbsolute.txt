@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.sourcelink.json
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\bin\Debug\net8.0\Lagersystem.exe
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\bin\Debug\net8.0\Lagersystem.deps.json
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\bin\Debug\net8.0\Lagersystem.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\bin\Debug\net8.0\Lagersystem.dll
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\bin\Debug\net8.0\Lagersystem.pdb
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.dll
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\refint\Lagersystem.dll
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.pdb
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\Lagersystem.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\AbstrakeMEtoder\lagersystem\obj\Debug\net8.0\ref\Lagersystem.dll

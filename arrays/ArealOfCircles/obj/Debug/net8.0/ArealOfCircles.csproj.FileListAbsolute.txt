@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\bin\Debug\net8.0\ArealOfCircles.exe
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\bin\Debug\net8.0\ArealOfCircles.deps.json
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\bin\Debug\net8.0\ArealOfCircles.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\bin\Debug\net8.0\ArealOfCircles.dll
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\bin\Debug\net8.0\ArealOfCircles.pdb
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.sourcelink.json
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.dll
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\refint\ArealOfCircles.dll
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.pdb
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ArealOfCircles.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\Arrays\ArealOfCircles\obj\Debug\net8.0\ref\ArealOfCircles.dll

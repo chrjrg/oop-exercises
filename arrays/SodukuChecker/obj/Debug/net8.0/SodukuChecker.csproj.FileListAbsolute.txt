@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\bin\Debug\net8.0\SodukuChecker.exe
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\bin\Debug\net8.0\SodukuChecker.deps.json
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\bin\Debug\net8.0\SodukuChecker.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\bin\Debug\net8.0\SodukuChecker.dll
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\bin\Debug\net8.0\SodukuChecker.pdb
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.sourcelink.json
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.dll
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\refint\SodukuChecker.dll
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.pdb
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\SodukuChecker.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\Arrays\sodukuChecker\obj\Debug\net8.0\ref\SodukuChecker.dll

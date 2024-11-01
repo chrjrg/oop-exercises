@@ -1,0 +1,15 @@
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\bin\Debug\net8.0\LargestInArray.exe
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\bin\Debug\net8.0\LargestInArray.deps.json
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\bin\Debug\net8.0\LargestInArray.runtimeconfig.json
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\bin\Debug\net8.0\LargestInArray.dll
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\bin\Debug\net8.0\LargestInArray.pdb
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.AssemblyInfoInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.AssemblyInfo.cs
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.csproj.CoreCompileInputs.cache
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.sourcelink.json
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.dll
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\refint\LargestInArray.dll
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.pdb
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\LargestInArray.genruntimeconfig.cache
+C:\Users\chris\code\oop-exercises\Arrays\LargestInArray\obj\Debug\net8.0\ref\LargestInArray.dll
