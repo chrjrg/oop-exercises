@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMEtoder\\lagersystem\\Lagersystem.csproj": {}
+    "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMetoder\\Lagersystem\\Lagersystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMEtoder\\lagersystem\\Lagersystem.csproj": {
+    "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMetoder\\Lagersystem\\Lagersystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMEtoder\\lagersystem\\Lagersystem.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMetoder\\Lagersystem\\Lagersystem.csproj",
         "projectName": "Lagersystem",
-        "projectPath": "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMEtoder\\lagersystem\\Lagersystem.csproj",
+        "projectPath": "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMetoder\\Lagersystem\\Lagersystem.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMEtoder\\lagersystem\\obj\\",
+        "outputPath": "C:\\Users\\chris\\code\\oop-exercises\\AbstrakeMetoder\\Lagersystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
